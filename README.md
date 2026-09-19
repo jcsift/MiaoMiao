@@ -4,7 +4,7 @@
 
 ![秒秒云(MiaoMiao)](https://i.eoht.net/airport/miaomiao_logo.webp)
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/miaomiao) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/miaomiao) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 秒秒云(MiaoMiao) 的套餐页主打**中转高速节点、多流媒体与 GPT 解锁服务**，支持通用订阅。常规月付从 **¥14、128GB/月**起，另有年付特惠、max 套餐、100GB 不限时流量包和不可复购的 10GB 付费试用。
 
