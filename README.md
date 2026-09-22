@@ -125,3 +125,5 @@
 想继续比较预算和线路，可阅读[中转与专线选择指南](https://eoht.net/serve/routes/selection)，或返回[机场推荐与套餐对比](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)；使用场景可参考[流媒体观影指南](https://eoht.net/streaming/summary)和[AI 工具使用指南](https://eoht.net/ai/summary)。
 
 [立即购买秒秒云套餐](https://eoht.net/serve/airport/miaomiao)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
